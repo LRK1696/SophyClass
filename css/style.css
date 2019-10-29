@@ -2760,7 +2760,7 @@ ul {
   width: 41%;
   height: 69%;
   content: "";
-  background-image: url(../img/kids-up.png);
+  background-image: url(../img/fondosophy2.png);
   background-size: 100% 100%;
   right: 9%;
 }
@@ -2773,7 +2773,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/kids-up.png);
+    background-image: url(../img/fondosophy2.png);
     background-size: contain;
     right: 0;
     left: 0;
@@ -2791,7 +2791,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/kids-up.png);
+    background-image: url(../img/fondosophy2.png);
     background-size: contain;
     right: 0;
     left: 0;
@@ -2809,7 +2809,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/kids-up.png);
+    background-image: url(../img/fondosophy2.png);
     background-size: contain;
     right: 0;
     left: 0;
@@ -2826,7 +2826,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/kids-up.png);
+    background-image: url(../img/fondosophy2.png);
     background-size: contain;
     right: 5%;
     bottom: 0;
@@ -6922,6 +6922,13 @@ h1, h2, h3, h4, h5, h6 {
 /* line 1, E:/172 Etrain Education/172_Etrain_Education_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
   background-image: url("../img/reading-recovery.png");
+  background-position: initial;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcrumb_bgform {
+  background-image: url("../img/tuto2r.png");
   background-position: initial;
   background-repeat: no-repeat;
   background-size: cover;

@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Action Man
+Author: Iconian Fonts
+Url: http://www.fontsquirrel.com/fonts/action-man
+
+Font: Montserrat
+Author: Julieta Ulanovsky
+Url: http://www.fontsquirrel.com/fonts/montserrat
+
+Font: Riffic
+Author: Nini Prower
+Url: http://www.fontsquirrel.com/fonts/riffic
